@@ -54,7 +54,7 @@ because those are ecological and confounded. The `03_lever_correlations.png`
 figure shows immunization with the *wrong* sign for exactly this reason; keep it
 as the motivating example.
 
-**Stage 3 — Equity-constrained allocation.** Choose district-lever actions to
+**Stage 3 — Equity-constrained allocation.** Choose district-level actions to
 maximize total expected reduction subject to a budget, with a floor reserving a
 share of the budget for the most-deprived districts. Because actions are
 independent at the margin, a greedy benefit/cost ordering is optimal
